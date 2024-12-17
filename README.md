@@ -1,7 +1,9 @@
 # PowerShell Scripts for Cybersecurity  
 
 This folder contains PowerShell scripts for automating security monitoring and incident response tasks. 
-These were all done through my Information Security and Windows Server Admin classes.
+These were all done through my Information Security and Windows Server Admin classes. 
+They were written in Powershell ISE with differing versions as my Server Admin class was on a VM with Windows Server OS 2019. 
+Given that, some of these scripts may be outdated for new Powershell versions. 
 
 ## Scripts Included  
 1. **Check_FailedLogins.ps1**  
